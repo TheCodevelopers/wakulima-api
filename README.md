@@ -6,7 +6,10 @@ This applications purpose is to connect farmers or land owners who do not have e
 The Application will also have an Accountability tool(Usable in other projects- can be TM) that will be used to provide transparency and accountability by providing a follow up that shows: issue, status and chain of custody, dates of actions taken, organization/member of staff involved , transactions occurred , any picture proof, reviews or feedback from people involved. This will also have the ability to sync calendars of networks involved to show meetings,sales,training and keep track of meeting attendance/punctuality etc.
 
 This project was created using the following versions:
-* Core Api - Java
-* Web App - Java
-* Andorid App - Java
-* iOS App - Swift 4
+
+Application Repo| Platform | Purpose
+------------ |------------------|-------------
+Core Api | Java | Description here
+Web App | Java | Description here
+Andorid App | Java | Description here
+iOS App | Swift 4 | Description here
